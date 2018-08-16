@@ -53,8 +53,7 @@ Epics > Features > Stories > Tasks
 
 Fibonacci Scale
 : implies exponentially rising difficulty
-
-> `1, 2, 3, 5, 8, 13, 21`
+:`1, 2, 3, 5, 8, 13, 21`
 
 ### Relative Estimation Game
 **Eating Fruits**: `apple,orange,banana,pineapple,papaya,strawberry,kiwi,peach,cantaloupe`
@@ -73,5 +72,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ2OTMyNTVdfQ==
+eyJoaXN0b3J5IjpbLTIxNjUzNDU3M119
 -->
