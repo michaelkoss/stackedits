@@ -57,7 +57,7 @@ Epics > Features > Stories > Tasks
 ### Relative Estimation Game
 ```
 1. Kraft Mac n' Cheese
-2. Thanksgiving Dinner
+2. Enchiladas
 3. Spaghetti
 4. Bologna Sandwich
 5. Hot Dogs
@@ -67,7 +67,8 @@ Epics > Features > Stories > Tasks
 9. Jello
 10. Fajitas
 11. Pad Thai
-12.   
+12. Fried Rice
+13. Enchiladas  
 ```
 
 ### Fibonacci Scale
@@ -84,7 +85,7 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA3NzY0NjEsLTkwMTY3NzE3NSwtMT
+eyJoaXN0b3J5IjpbLTEwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMT
 UzMjA5Nzk1MSwtMTUyMTkyNTk4MCwxNzMxNDcwMzI2LC03MTg0
 NzczMyw0NjY5MTY4OTFdfQ==
 -->
