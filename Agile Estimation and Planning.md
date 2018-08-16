@@ -54,11 +54,16 @@ Epics > Features > Stories > Tasks
 
 
 ### Relative Estimation Game
-**Eating Fruits**: `apple,orange,banana,pineapple,papaya,strawberry,kiwi,peach,cantaloupe`
-
-**Build a House**:`pour foundation,lay plumbing,frame load bearing walls,`
-
-**Different Meals**: `Kraft Mac n' Cheese, Thanksgiving Dinner, Spaghetti, Bologna Sandwich, Hot Dogs, Chili, Lasagna, Grilled Salmon and Veggies`
+```
+1. Kraft Mac n' Cheese
+2. Thanksgiving Dinner
+3. Spaghetti
+4. Bologna Sandwich
+5. Hot Dogs
+6. Chili
+7. Lasagna
+8. Grilled Salmon
+```
 
 ### Fibonacci Scale
 - implies exponentially rising difficulty
@@ -74,6 +79,6 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc0MDM5MzYsLTcxODQ3NzMzLDQ2Nj
-kxNjg5MV19
+eyJoaXN0b3J5IjpbLTcxNjM3NTE2MCwtNzE4NDc3MzMsNDY2OT
+E2ODkxXX0=
 -->
