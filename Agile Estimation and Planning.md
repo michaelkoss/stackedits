@@ -72,13 +72,13 @@ Epics > Features > Stories > Tasks
 # Planning
 - Typically, a team is given a project and asked when it will be done
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
-- Calculate a team `veloci
+- Calculate a team `velocity` and 
 
 # Pop-up Support Tasks
 > **Decision**: do we track them on the board and include them in velocity?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTQ3MDMyNiwxNjcyODI0MDMyLC03MT
-g0NzczMyw0NjY5MTY4OTFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNz
+E4NDc3MzMsNDY2OTE2ODkxXX0=
 -->
