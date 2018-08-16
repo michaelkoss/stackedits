@@ -61,7 +61,7 @@ Fibonacci Scale
 
 **Build a House**:`pour foundation,lay plumbing,frame load bearing walls,`
 
-**Different Meals**: `Kraft Mac n' Cheese,Thanksgiving Dinner,Spaghetti,Bologna Sandwich,Hot Dogs,Chili,Lasagna`
+**Different Meals**: `Kraft Mac n' Cheese, Thanksgiving Dinner, Spaghetti, Bologna Sandwich, Hot Dogs, hili, Lasagna`
 
 # Planning
 - Typically, a team is given a project and asked when it will be done
@@ -73,5 +73,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTczNzUwOF19
+eyJoaXN0b3J5IjpbLTEyOTQ2OTMyNTVdfQ==
 -->
