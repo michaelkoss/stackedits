@@ -46,15 +46,12 @@ Epics > Features > Stories > Tasks
 > **First Decision**: What level do we want to track?
 
 # Relative Estimation
-### Estimation
+
+**Estimation**
 - is hard and inaccurate...we are not good at it
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
 
-
-Fibonacci Scale
-: implies exponentially rising difficulty
-: `1, 2, 3, 5, 8, 13, 21`
 
 ### Relative Estimation Game
 **Eating Fruits**: `apple,orange,banana,pineapple,papaya,strawberry,kiwi,peach,cantaloupe`
@@ -62,6 +59,10 @@ Fibonacci Scale
 **Build a House**:`pour foundation,lay plumbing,frame load bearing walls,`
 
 **Different Meals**: `Kraft Mac n' Cheese, Thanksgiving Dinner, Spaghetti, Bologna Sandwich, Hot Dogs, hili, Lasagna`
+
+Fibonacci Scale
+: implies exponentially rising difficulty
+: `1, 2, 3, 5, 8, 13, 21`
 
 # Planning
 - Typically, a team is given a project and asked when it will be done
@@ -73,5 +74,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2OTE2ODkxLC02ODk2OTU1MTBdfQ==
+eyJoaXN0b3J5IjpbNDYwNTE1OTc2LDQ2NjkxNjg5MV19
 -->
