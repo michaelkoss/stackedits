@@ -46,11 +46,11 @@ Epics > Features > Stories > Tasks
 > **First Decision**: What level do we want to track?
 
 # Relative Estimation
-Estimation
+#### Estimation
 - is hard and inaccurate...we are not good at it
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
-- Agile simplifies estimation by using relative sizes
+
 
 Fibonacci Scale
 : implies exponentially rising difficulty
@@ -73,5 +73,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMyNTI5MDhdfQ==
+eyJoaXN0b3J5IjpbLTY4OTY5NTUxMF19
 -->
