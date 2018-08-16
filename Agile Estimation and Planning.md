@@ -60,9 +60,9 @@ Epics > Features > Stories > Tasks
 
 **Different Meals**: `Kraft Mac n' Cheese, Thanksgiving Dinner, Spaghetti, Bologna Sandwich, Hot Dogs, hili, Lasagna`
 
-Fibonacci Scale
-: implies exponentially rising difficulty
-: `1, 2, 3, 5, 8, 13, 21`
+### Fibonacci Scale
+- implies exponentially rising difficulty
+- `1, 2, 3, 5, 8, 13, 21`
 
 # Planning
 - Typically, a team is given a project and asked when it will be done
@@ -74,5 +74,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNTE1OTc2LDQ2NjkxNjg5MV19
+eyJoaXN0b3J5IjpbLTcxODQ3NzMzLDQ2NjkxNjg5MV19
 -->
