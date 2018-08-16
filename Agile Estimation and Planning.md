@@ -46,14 +46,15 @@ Epics > Features > Stories > Tasks
 > **First Decision**: What level do we want to track?
 
 # Relative Estimation
-- Estimation is hard and inaccurate...we are not good at it
-- More time spent estimating does not generate more accuracy
-- Humans are much better at relative estimation
+Estimation
+- is hard and inaccurate...we are not good at it
+- time spent estimating does not generate more accuracy
+- humans are much better at relative estimation
 - Agile simplifies estimation by using relative sizes
 
 Fibonacci Scale
 : implies exponentially rising difficulty
-:`1, 2, 3, 5, 8, 13, 21`
+: `1, 2, 3, 5, 8, 13, 21`
 
 ### Relative Estimation Game
 **Eating Fruits**: `apple,orange,banana,pineapple,papaya,strawberry,kiwi,peach,cantaloupe`
@@ -72,5 +73,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjUzNDU3M119
+eyJoaXN0b3J5IjpbLTEzODMyNTI5MDhdfQ==
 -->
