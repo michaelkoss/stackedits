@@ -58,7 +58,9 @@ Fibonacci Scale
 
 ### Relative Estimation Game
 **Eating Fruits**: `apple,orange,banana,pineapple,papaya,strawberry,kiwi,peach,cantaloupe`
+
 **Build a House**:`pour foundation,lay plumbing,frame load bearing walls,`
+
 **Different Meals**: `Kraft Mac n' Cheese,Thanksgiving Dinner,Spaghetti,Bologna Sandwich,Hot Dogs,Chili,Lasagna`
 
 # Planning
@@ -71,5 +73,5 @@ Fibonacci Scale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg0Nzc2XX0=
+eyJoaXN0b3J5IjpbLTM1OTczNzUwOF19
 -->
