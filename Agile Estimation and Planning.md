@@ -58,7 +58,7 @@ Epics > Features > Stories > Tasks
 
 **Build a House**:`pour foundation,lay plumbing,frame load bearing walls,`
 
-**Different Meals**: `Kraft Mac n' Cheese, Thanksgiving Dinner, Spaghetti, Bologna Sandwich, Hot Dogs, hili, Lasagna`
+**Different Meals**: `Kraft Mac n' Cheese, Thanksgiving Dinner, Spaghetti, Bologna Sandwich, Hot Dogs, Chili, Lasagna, Grilled Salmon and Veggies`
 
 ### Fibonacci Scale
 - implies exponentially rising difficulty
@@ -74,5 +74,6 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODQ3NzMzLDQ2NjkxNjg5MV19
+eyJoaXN0b3J5IjpbLTEwODc0MDM5MzYsLTcxODQ3NzMzLDQ2Nj
+kxNjg5MV19
 -->
