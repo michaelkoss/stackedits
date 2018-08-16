@@ -42,8 +42,9 @@ Epics > Features > Stories > Tasks
 |----|----|
 |More focused/accurate estimation|More time breaking down/organizing|
 |Easier parallel efforts of team|Cluttered board|
-
+---
 > **First Decision**: What level do we want to track?
+---
 
 # Relative Estimation
 
@@ -79,6 +80,7 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIwOTc5NTEsLTE1MjE5MjU5ODAsMT
-czMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX0=
+eyJoaXN0b3J5IjpbLTkwMTY3NzE3NSwtMTUzMjA5Nzk1MSwtMT
+UyMTkyNTk4MCwxNzMxNDcwMzI2LC03MTg0NzczMyw0NjY5MTY4
+OTFdfQ==
 -->
