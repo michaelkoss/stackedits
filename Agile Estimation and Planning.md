@@ -47,7 +47,7 @@ Epics > Features > Stories > Tasks
 
 # Relative Estimation
 
-**Estimation**
+### Estimation
 - is hard and inaccurate...we are not good at it
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
@@ -79,6 +79,6 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNz
-E4NDc3MzMsNDY2OTE2ODkxXX0=
+eyJoaXN0b3J5IjpbLTE1MzIwOTc5NTEsLTE1MjE5MjU5ODAsMT
+czMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX0=
 -->
