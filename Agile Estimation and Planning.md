@@ -56,8 +56,9 @@ Epics > Features > Stories > Tasks
 	- we know the least about a project/feature at the start
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
-	- >
 
+> It is better to be roughly right than precisely wrong.
+	> *- John Maynard Keynes*
 
 ### Relative Estimation Game
 ```
@@ -96,7 +97,7 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc0NTUwNCwxNTczMTQ1NjE0LC02OD
+eyJoaXN0b3J5IjpbMTUxNjQ4ODQ0MSwxMjg2NzQ1NTA0LC02OD
 I4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgz
 OTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMj
 QzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAx
