@@ -81,6 +81,9 @@ Epics > Features > Stories > Tasks
 - Points are completely arbitrary and have no correlation to time
 
 # Planning
+> "When preparing for battle, I find that **plans are useless** but **planning is indispensable"
+	> *- Dwight D Eisenhower*
+	
 - Typically, a team is given a project and asked when it will be done
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
 - Calculate a team `velocity` and 
@@ -90,9 +93,10 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2Mzc5NjQwLC0xMzA0MzI4Mzk0LDE0OT
-Q4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0MzA0Nzkx
-LDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMwMTAzMywtOT
-AxNjc3MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OTgwLDE3MzE0
-NzAzMjYsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
+eyJoaXN0b3J5IjpbLTMwNTY5OTAwNCwyOTYzNzk2NDAsLTEzMD
+QzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIw
+LDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMD
+IyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5
+MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX
+0=
 -->
