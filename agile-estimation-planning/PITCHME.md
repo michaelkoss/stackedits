@@ -2,21 +2,21 @@
 
 ## Goal
 Inform stakeholders when features will be done
-
++++
 ## Estimation
 1. Give each unit of work a `value` based on effort
 2. Track how many `values` are completed each `cycle`
 3. Calculate `velocity` (`values`/`cycle`) for the team
-
++++
 ## Planning
 1. What is the most important functionality we can fit into this `cycle`
 2. We can extrapolate our `velocity` to project when a set of features will be done
-
++++
 ## Difference
 We don't pick functionality then guess a date
 We pick a date, then plan the functionality we can accomplish by then
 
-
++++
 # Details
 
 ## Units of Work
