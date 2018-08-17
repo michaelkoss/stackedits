@@ -50,7 +50,7 @@ Epics > Features > Stories > Tasks
 
 ### Estimation
 - is hard and inaccurate...we are not good at it
-- optimists and pessimists..waste time arguing
+	- optimists and pessimists..waste time arguing
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
@@ -88,9 +88,9 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MT
-EzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkz
-LC0xMDIyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLT
-E1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2
-ODkxXX0=
+eyJoaXN0b3J5IjpbMTg1MDY4OTA4OCwxNDk0ODc4MjQ4LDk3NT
+U3NTY5MCwyNzgxMTM2MjAsMTEyNDMwNDc5MSwxODMxNjU4MDA5
+LDE2NTI2NTg5OTMsLTEwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMT
+UzMjA5Nzk1MSwtMTUyMTkyNTk4MCwxNzMxNDcwMzI2LC03MTg0
+NzczMyw0NjY5MTY4OTFdfQ==
 -->
