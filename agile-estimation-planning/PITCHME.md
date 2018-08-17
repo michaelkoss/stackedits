@@ -3,6 +3,7 @@
 ## Goal of Estimation/Planning
 Inform stakeholders when features will be done
 +++
+## Traditional
 ## Estimation
 1. Give each unit of work a `value` based on effort
 2. Track how many `values` are completed each `cycle`
@@ -117,5 +118,5 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzU0OTIzNiwxMDE4MDkyMzc2XX0=
+eyJoaXN0b3J5IjpbMTQzMDgyNjgxMSwxMDE4MDkyMzc2XX0=
 -->
