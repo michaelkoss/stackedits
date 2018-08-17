@@ -1,4 +1,4 @@
-# Agile Estimation and Planning
+## Agile Estimation and Planning
 ---
 ## Goal of Estimation/Planning
 Inform stakeholders when features will be done
@@ -119,5 +119,5 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA2NDUxMTcsMTAxODA5MjM3Nl19
+eyJoaXN0b3J5IjpbLTExNDMxNjMxMjIsMTAxODA5MjM3Nl19
 -->
