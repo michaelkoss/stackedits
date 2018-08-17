@@ -81,7 +81,7 @@ Epics > Features > Stories > Tasks
 - Points are completely arbitrary and have no correlation to time
 
 # Planning
-> "When preparing for battle, I find that **plans are useless** but **planning is indispensable"
+> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**"
 	> *- Dwight D Eisenhower*
 	
 - Typically, a team is given a project and asked when it will be done
@@ -93,10 +93,10 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTY5OTAwNCwyOTYzNzk2NDAsLTEzMD
-QzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIw
-LDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMD
-IyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5
-MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX
-0=
+eyJoaXN0b3J5IjpbLTExMzIyOTM1MDAsLTMwNTY5OTAwNCwyOT
+YzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2
+OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNj
+UyNjU4OTkzLC0xMDIyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIw
+OTc5NTEsLTE1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3Mz
+MsNDY2OTE2ODkxXX0=
 -->
