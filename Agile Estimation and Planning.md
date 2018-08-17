@@ -53,6 +53,7 @@ Epics > Features > Stories > Tasks
 - optimists and pessimists..waste time arguing
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
+- 
 
 
 ### Relative Estimation Game
@@ -86,8 +87,8 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDMwNDc5MSwxODMxNjU4MDA5LDE2NT
-I2NTg5OTMsLTEwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMTUzMjA5
-Nzk1MSwtMTUyMTkyNTk4MCwxNzMxNDcwMzI2LC03MTg0NzczMy
-w0NjY5MTY4OTFdfQ==
+eyJoaXN0b3J5IjpbMTUwNTY2MDQ3NiwxMTI0MzA0NzkxLDE4Mz
+E2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMwMTAzMywtOTAxNjc3
+MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OTgwLDE3MzE0NzAzMj
+YsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
 -->
