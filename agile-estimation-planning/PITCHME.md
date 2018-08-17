@@ -1,5 +1,7 @@
 ## Agile
-## Estimation and Planning
+## Estimation
+## and
+## Planning
 
 ---
 ## Goal of Estimation/Planning
@@ -138,6 +140,6 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTM5MTIwLC04NTc4NjI2NDAsLTExMT
-E4NjgyMzQsLTI2Mjg1NjQzNiwxMDE4MDkyMzc2XX0=
+eyJoaXN0b3J5IjpbLTE1NjQwMDk3ODAsLTg1Nzg2MjY0MCwtMT
+ExMTg2ODIzNCwtMjYyODU2NDM2LDEwMTgwOTIzNzZdfQ==
 -->
