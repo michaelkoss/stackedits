@@ -1,6 +1,4 @@
 ## Agile Estimation and Planning
-Michael Koss
-
 ---
 ## Goal of Estimation/Planning
 Inform stakeholders when features will be done
@@ -121,5 +119,5 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjIwNzYzNSwxMDE4MDkyMzc2XX0=
+eyJoaXN0b3J5IjpbLTExNDMxNjMxMjIsMTAxODA5MjM3Nl19
 -->
