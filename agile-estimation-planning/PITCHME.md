@@ -15,9 +15,9 @@ As a development team, we need to inform stakeholders when features will be done
 ## Problems
 1. Estimation is hard and inaccurate...we are not good at it
 	- optimists and pessimists..waste time arguing
-1. time spent estimating does not generate more accuracy
-1. software is ambiguous
-1. We know the least about a project/feature at the start
+1. Time spent estimating does not generate more accuracy
+	- Software is ambiguous
+	- We know the least about a project/feature at the start
 ---
 ## Estimation
 1. Give each unit of work a `value` based on effort
@@ -133,6 +133,6 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzgxNjYyMCwtMTExMTg2ODIzNCwtMj
+eyJoaXN0b3J5IjpbLTg1Nzg2MjY0MCwtMTExMTg2ODIzNCwtMj
 YyODU2NDM2LDEwMTgwOTIzNzZdfQ==
 -->
