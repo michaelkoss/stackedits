@@ -1,6 +1,8 @@
 # Overview
 
-## Goal
+## GoalAgile Estimation and Planning
++++
+## Goal of Estimation
 Inform stakeholders when features will be done
 +++
 ## Estimation
@@ -16,11 +18,14 @@ Inform stakeholders when features will be done
 We don't pick functionality then guess a date
 We pick a date, then plan the functionality we can accomplish by then
 
+
 +++
 # Details
 
+
 ## Units of Work
 Epics > Features > Stories > Tasks
+
 
 - **Data Quality Module**
 	* *Issue Assignment*
@@ -38,6 +43,9 @@ Epics > Features > Stories > Tasks
 
 
 
+
+
+
 |Pros of Tasks|Cons of Tasks|
 |----|----|
 |More focused/accurate estimation|More time breaking down/organizing|
@@ -46,7 +54,9 @@ Epics > Features > Stories > Tasks
 > **First Decision**: What level do we want to track?
 ---
 
+
 # Relative Estimation
+
 
 ### Estimation
 - is hard and inaccurate...we are not good at it
@@ -57,8 +67,10 @@ Epics > Features > Stories > Tasks
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
 
+
 > "It is better to be **roughly right** than **precisely wrong**."
 	> *- John Maynard Keynes*
+
 
 ### Relative Estimation Game
 ```
@@ -77,14 +89,17 @@ Epics > Features > Stories > Tasks
 13.   
 ```
 
+
 ### Fibonacci Scale
 - implies exponentially rising difficulty
 - `1, 2, 3, 5, 8, 13, 21`
 - Points are completely arbitrary and have no correlation to time
 
+
 # Planning
 > "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
 	> *- Dwight D Eisenhower*
+
 
 Plans are static, planning is adaptive
 	
@@ -92,7 +107,17 @@ Plans are static, planning is adaptive
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
 - Calculate a team `velocity` and 
 
+
 # Pop-up Support Tasks
 > **Decision**: do we track them on the board and include them in velocity?
 
 
+up Support Tasks
+> **Decision**: do we track them on the board and include them in velocity?
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcxMTczMjEyMl19
+-->
