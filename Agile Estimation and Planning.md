@@ -57,7 +57,7 @@ Epics > Features > Stories > Tasks
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
 
-> It is better to be roughly right than precisely wrong.
+> "It is better to be **roughly right** than **precisely wrong**."
 	> *- John Maynard Keynes*
 
 ### Relative Estimation Game
@@ -97,10 +97,10 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjQ4ODQ0MSwxMjg2NzQ1NTA0LC02OD
-I4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgz
-OTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMj
-QzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAx
-MDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5MjU5OD
-AsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX0=
+eyJoaXN0b3J5IjpbLTEzMDQwNDY5NzEsMTI4Njc0NTUwNCwtNj
+gyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5NjQwLC0xMzA0MzI4
+Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYyMCwxMT
+I0MzA0NzkxLDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMw
+MTAzMywtOTAxNjc3MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OT
+gwLDE3MzE0NzAzMjYsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
 -->
