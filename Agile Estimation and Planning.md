@@ -50,7 +50,7 @@ Epics > Features > Stories > Tasks
 
 ### Estimation
 - is hard and inaccurate...we are not good at it
-- optimists
+- optimists and pes
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
 
@@ -86,8 +86,8 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTk0MTU0MCwxNjUyNjU4OTkzLC0xMD
-IyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5
-MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX
-0=
+eyJoaXN0b3J5IjpbMTgzMTY1ODAwOSwxNTI5OTQxNTQwLDE2NT
+I2NTg5OTMsLTEwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMTUzMjA5
+Nzk1MSwtMTUyMTkyNTk4MCwxNzMxNDcwMzI2LC03MTg0NzczMy
+w0NjY5MTY4OTFdfQ==
 -->
