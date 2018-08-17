@@ -81,8 +81,10 @@ Epics > Features > Stories > Tasks
 - Points are completely arbitrary and have no correlation to time
 
 # Planning
-> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**"
+> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
 	> *- Dwight D Eisenhower*
+
+Plans are static, planning is adaptive
 	
 - Typically, a team is given a project and asked when it will be done
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
@@ -93,10 +95,10 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIyOTM1MDAsLTMwNTY5OTAwNCwyOT
-YzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2
-OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNj
-UyNjU4OTkzLC0xMDIyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIw
-OTc5NTEsLTE1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3Mz
-MsNDY2OTE2ODkxXX0=
+eyJoaXN0b3J5IjpbLTY4MjgwNDY5LC0xMTMyMjkzNTAwLDI5Nj
+M3OTY0MCwtMTMwNDMyODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5
+MCwyNzgxMTM2MjAsMTEyNDMwNDc5MSwxODMxNjU4MDA5LDE2NT
+I2NTg5OTMsLTEwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMTUzMjA5
+Nzk1MSwtMTUyMTkyNTk4MCwxNzMxNDcwMzI2LC03MTg0NzczMy
+w0NjY5MTY4OTFdfQ==
 -->
