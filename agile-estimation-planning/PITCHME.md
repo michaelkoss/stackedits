@@ -8,7 +8,8 @@ As a development team, we need to inform stakeholders when features will be done
 ## Traditionally
 1. Stakeholders have an idea and ask when it will be done
 2. Business Analysts and Developers work together for a few months to derive an estimate
-3. 
+3. Stakeholders approve or reject project
+4. 
 
 ---
 ## Estimation
@@ -125,6 +126,6 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTEzODQ0MSwtMjYyODU2NDM2LDEwMT
-gwOTIzNzZdfQ==
+eyJoaXN0b3J5IjpbLTExMTE4NjgyMzQsLTI2Mjg1NjQzNiwxMD
+E4MDkyMzc2XX0=
 -->
