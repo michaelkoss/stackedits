@@ -34,12 +34,14 @@ As a development team, we need to inform stakeholders when features will be done
 ## Estimation
 1. Give each unit of work a `value` based on effort
 2. Each `value` is a relative size to the other units of work
-3. Track how many `values` are completed each `cycle`
-4. Calculate `velocity` (`values`/`cycle`) for the team
+3. 
+4. 
 +++
 ## Planning
-1. What is the most important functionality we can fit into this `cycle`
-2. We can extrapolate our `velocity` to project when a set of features will be done
+1. Track how many `values` are completed each `cycle`
+2. Calculate `velocity` (`values`/`cycle`) for the team
+3. What is the most important functionality we can fit into this `cycle`
+4. We can extrapolate our `velocity` to project when a set of features will be done
 +++
 ## Difference
 We don't pick functionality then guess a date
@@ -141,7 +143,7 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5ODgzNDMyLDIxMDQyNzAwNywtMTU2ND
-AwOTc4MCwtODU3ODYyNjQwLC0xMTExODY4MjM0LC0yNjI4NTY0
-MzYsMTAxODA5MjM3Nl19
+eyJoaXN0b3J5IjpbLTE4NDYyNDkxNDcsMjEwNDI3MDA3LC0xNT
+Y0MDA5NzgwLC04NTc4NjI2NDAsLTExMTE4NjgyMzQsLTI2Mjg1
+NjQzNiwxMDE4MDkyMzc2XX0=
 -->
