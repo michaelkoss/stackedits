@@ -53,6 +53,7 @@ Epics > Features > Stories > Tasks
 	- optimists and pessimists..waste time arguing
 	- time spent estimating does not generate more accuracy
 	- software is ambiguous
+	- we know the least about a project/feature at the start
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
 
@@ -89,9 +90,9 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OCw5Nz
-U1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAw
-OSwxNjUyNjU4OTkzLC0xMDIyMzAxMDMzLC05MDE2NzcxNzUsLT
-E1MzIwOTc5NTEsLTE1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNzE4
-NDc3MzMsNDY2OTE2ODkxXX0=
+eyJoaXN0b3J5IjpbMjk2Mzc5NjQwLC0xMzA0MzI4Mzk0LDE0OT
+Q4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0MzA0Nzkx
+LDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMwMTAzMywtOT
+AxNjc3MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OTgwLDE3MzE0
+NzAzMjYsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
 -->
