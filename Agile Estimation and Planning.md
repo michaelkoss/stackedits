@@ -56,7 +56,7 @@ Epics > Features > Stories > Tasks
 	- we know the least about a project/feature at the start
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
-	- 
+	- >
 
 
 ### Relative Estimation Game
@@ -96,10 +96,10 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzE0NTYxNCwtNjgyODA0NjksLTExMz
-IyOTM1MDAsMjk2Mzc5NjQwLC0xMzA0MzI4Mzk0LDE0OTQ4Nzgy
-NDgsOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0MzA0NzkxLDE4Mz
-E2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMwMTAzMywtOTAxNjc3
-MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OTgwLDE3MzE0NzAzMj
-YsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
+eyJoaXN0b3J5IjpbMTI4Njc0NTUwNCwxNTczMTQ1NjE0LC02OD
+I4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgz
+OTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMj
+QzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAx
+MDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5MjU5OD
+AsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2ODkxXX0=
 -->
