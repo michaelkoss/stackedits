@@ -53,7 +53,7 @@ Epics > Features > Stories > Tasks
 - optimists and pessimists..waste time arguing
 - time spent estimating does not generate more accuracy
 - humans are much better at relative estimation
-	- 
+	- comparing is much quicker and more accurate than deconstructing
 
 
 ### Relative Estimation Game
@@ -87,8 +87,8 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MTEzNjIwLDE1MDU2NjA0NzYsMTEyND
-MwNDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLTEwMjIzMDEw
-MzMsLTkwMTY3NzE3NSwtMTUzMjA5Nzk1MSwtMTUyMTkyNTk4MC
-wxNzMxNDcwMzI2LC03MTg0NzczMyw0NjY5MTY4OTFdfQ==
+eyJoaXN0b3J5IjpbOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0Mz
+A0NzkxLDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMwMTAz
+MywtOTAxNjc3MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OTgwLD
+E3MzE0NzAzMjYsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
 -->
