@@ -6,22 +6,27 @@ As a development team, we need to inform stakeholders when features will be done
 
 ---
 ## Traditionally
-1. Stakeholders have an idea and ask when it will be done
-2. Business Analysts and Developers work together for a few months to derive an estimate
-3. Stakeholders approve or reject project
+- Stakeholders have an idea and ask when it will be done
+- Business Analysts and Developers work together for a few months to derive an estimate
+- Stakeholders approve or reject project
 4. Assuming approval, development team starts work
 
 ---
 ## Problems
-1. Estimation is hard and inaccurate...we are not good at it
+- Estimation is hard and inaccurate...we are not good at it
 	- optimists and pessimists..waste time arguing
-1. Time spent estimating does not generate more accuracy
+- Time spent estimating does not generate more accuracy
 	- Software is ambiguous
 	- We know the least about a project/feature at the start
 
 ---
-## A Better Way
-#### Relative Estimation
+## A Better Way: Relative Estimation
+- humans are much better at relative estimation
+	- comparing is much quicker and more accurate than deconstructing
+
+
+> "It is better to be **roughly right** than **precisely wrong**."
+	> *- John Maynard Keynes*
 ---
 ## Estimation
 1. Give each unit of work a `value` based on effort
@@ -82,12 +87,7 @@ Epics > Features > Stories > Tasks
 	- time spent estimating does not generate more accuracy
 	- software is ambiguous
 	- we know the least about a project/feature at the start
-- humans are much better at relative estimation
-	- comparing is much quicker and more accurate than deconstructing
 
-
-> "It is better to be **roughly right** than **precisely wrong**."
-	> *- John Maynard Keynes*
 
 
 ### Relative Estimation Game
@@ -137,6 +137,6 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE4MjM5OTYsLTg1Nzg2MjY0MCwtMT
-ExMTg2ODIzNCwtMjYyODU2NDM2LDEwMTgwOTIzNzZdfQ==
+eyJoaXN0b3J5IjpbMTI0OTMwMzYxLC04NTc4NjI2NDAsLTExMT
+E4NjgyMzQsLTI2Mjg1NjQzNiwxMDE4MDkyMzc2XX0=
 -->
