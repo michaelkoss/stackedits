@@ -18,6 +18,10 @@ As a development team, we need to inform stakeholders when features will be done
 1. Time spent estimating does not generate more accuracy
 	- Software is ambiguous
 	- We know the least about a project/feature at the start
+
+---
+## A Better Way
+#### Relative Estimation
 ---
 ## Estimation
 1. Give each unit of work a `value` based on effort
@@ -133,6 +137,6 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Nzg2MjY0MCwtMTExMTg2ODIzNCwtMj
-YyODU2NDM2LDEwMTgwOTIzNzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTE4MjM5OTYsLTg1Nzg2MjY0MCwtMT
+ExMTg2ODIzNCwtMjYyODU2NDM2LDEwMTgwOTIzNzZdfQ==
 -->
