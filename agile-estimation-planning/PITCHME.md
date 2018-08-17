@@ -1,10 +1,14 @@
 ## Agile Estimation and Planning
+
 ---
 ## Goal of Estimation/Planning
 As a development team, we need to inform stakeholders when features will be done so they can make informed decisions on budget and priority.
-+++
+
+---
 ## Traditionally
-1. Stackholders give an idea
+1. Stakeholders have an idea and ask when it will be done
+2. 
+---
 ## Estimation
 1. Give each unit of work a `value` based on effort
 2. Track how many `values` are completed each `cycle`
@@ -119,5 +123,6 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjg1NjQzNiwxMDE4MDkyMzc2XX0=
+eyJoaXN0b3J5IjpbNDk2NTQzMzYsLTI2Mjg1NjQzNiwxMDE4MD
+kyMzc2XX0=
 -->
