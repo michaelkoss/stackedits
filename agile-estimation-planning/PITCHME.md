@@ -20,7 +20,7 @@ As a development team, we need to inform stakeholders when features will be done
 	- optimists and pessimists..waste time arguing
 - Time spent estimating does not generate more accuracy
 	- Software is ambiguous
-	- We know the least about a project/feature at the start
+	- We know the least about a project/feature/technology at the start
 
 ---
 ## A Better Way: Relative Estimation
@@ -140,6 +140,7 @@ up Support Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQwMDk3ODAsLTg1Nzg2MjY0MCwtMT
-ExMTg2ODIzNCwtMjYyODU2NDM2LDEwMTgwOTIzNzZdfQ==
+eyJoaXN0b3J5IjpbMjEwNDI3MDA3LC0xNTY0MDA5NzgwLC04NT
+c4NjI2NDAsLTExMTE4NjgyMzQsLTI2Mjg1NjQzNiwxMDE4MDky
+Mzc2XX0=
 -->
