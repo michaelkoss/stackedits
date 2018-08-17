@@ -76,6 +76,7 @@ Epics > Features > Stories > Tasks
 ### Fibonacci Scale
 - implies exponentially rising difficulty
 - `1, 2, 3, 5, 8, 13, 21`
+- Points are completely arbitrary and have no correlation to time
 
 # Planning
 - Typically, a team is given a project and asked when it will be done
@@ -87,8 +88,9 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0Mz
-A0NzkxLDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMwMTAz
-MywtOTAxNjc3MTc1LC0xNTMyMDk3OTUxLC0xNTIxOTI1OTgwLD
-E3MzE0NzAzMjYsLTcxODQ3NzMzLDQ2NjkxNjg5MV19
+eyJoaXN0b3J5IjpbMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MT
+EzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkz
+LC0xMDIyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLT
+E1MjE5MjU5ODAsMTczMTQ3MDMyNiwtNzE4NDc3MzMsNDY2OTE2
+ODkxXX0=
 -->
