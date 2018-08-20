@@ -10,9 +10,6 @@ Inform stakeholders when projects/features will be done
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
 	- The completion date comes into focus as work gets done
 
-
-
-
 ## Difference in Agile
 - We don't pick functionality then guess a date
 - We pick a date, then plan the functionality we can accomplish
@@ -134,7 +131,7 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTI2NDk1OSwtOTM1Njg5MDI4LC0xMj
+eyJoaXN0b3J5IjpbMTExMDIzMjA3MywtOTM1Njg5MDI4LC0xMj
 UxMTY5NjY0LC0yNDQwMDMyMzgsLTI1Nzc5MTEzMCw1ODUzNjQw
 NCwxNjM5NTAzNTg0LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMT
 I4Njc0NTUwNCwtNjgyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5
