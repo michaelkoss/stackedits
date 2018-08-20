@@ -9,7 +9,7 @@ Inform stakeholders when features will be done
 3. Calculate `velocity` (`values`/`cycle`) for the team
 
 Velocity
-: how much work is getting done per 
+: how much work is getting done per `cycle`
 
 ## Planning
 1. What is the most important functionality we can fit into this `cycle`
@@ -111,11 +111,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NT
-M2NDA0LDE2Mzk1MDM1ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3
-MSwxMjg2NzQ1NTA0LC02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOT
-YzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2
-OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNj
-UyNjU4OTkzLC0xMDIyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIw
-OTc5NTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTExNjk2NjQsLTI0NDAwMzIzOCwtMj
+U3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1ODQsLTIxODA0NjMy
+MywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2OSwtMT
+EzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3
+ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMT
+gzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAxMDMzLC05MDE2
+NzcxNzVdfQ==
 -->
