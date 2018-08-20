@@ -46,6 +46,39 @@ Velocity
 
 Plans are static, planning is adaptive
 
+## Relative Estimation Game - Freezer Meals
+```
+1. Grilled Salmon
+2. Spaghetti
+3. Hot Dogs
+4. Mac n' Cheese
+5. Bologna Sandwich
+6. Lasagna
+7. Fajitas
+8. Fried Rice
+9. Pad Thai
+10. Chocolate Chip Cookies 
+11. Chili
+12. Jello
+13. Steak and Potatoes
+14. Enchiladas 
+```
+### Steps
+1. Relatively estimate the time it takes to prepare each Freezer Meal
+2. Assign points to each column
+3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
+	- Guesstimate how many points we can accomplish each afternoon
+4. Plan the first afternoon's preparations
+5. Determine velocity and plan Saturday's afternoon
+6. Determine velocity and plan Sunday's afternoon
+7. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
+
+
+### Fibonacci Scale
+- implies exponentially rising difficulty
+- `1, 2, 3, 5, 8, 13, 21`
+- Points are completely arbitrary and have no correlation to time
+
 # Details
 
 ## Units of Work
@@ -89,38 +122,8 @@ Epics > Features > Stories > Tasks
 > "It is better to be **roughly right** than **precisely wrong**."
 	> *- John Maynard Keynes*
 
-## Relative Estimation Game - Freezer Meals
-```
-1. Grilled Salmon
-2. Spaghetti
-3. Hot Dogs
-4. Mac n' Cheese
-5. Bologna Sandwich
-6. Lasagna
-7. Fajitas
-8. Fried Rice
-9. Pad Thai
-10. Chocolate Chip Cookies 
-11. Chili
-12. Jello
-13. Steak and Potatoes
-14. Enchiladas 
-```
-### Steps
-1. Relatively estimate the time it takes to prepare each Freezer Meal
-2. Assign points to each column
-3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
-	- Guesstimate how many points we can accomplish each afternoon
-4. Plan the first afternoon's preparations
-5. Determine velocity and plan Saturday's afternoon
-6. Determine velocity and plan Sunday's afternoon
-7. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
 
-### Fibonacci Scale
-- implies exponentially rising difficulty
-- `1, 2, 3, 5, 8, 13, 21`
-- Points are completely arbitrary and have no correlation to time
 
 # Planning
 
@@ -131,7 +134,7 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDIzMjA3MywtOTM1Njg5MDI4LC0xMj
+eyJoaXN0b3J5IjpbMTk1NTE0ODQ2MSwtOTM1Njg5MDI4LC0xMj
 UxMTY5NjY0LC0yNDQwMDMyMzgsLTI1Nzc5MTEzMCw1ODUzNjQw
 NCwxNjM5NTAzNTg0LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMT
 I4Njc0NTUwNCwtNjgyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5
