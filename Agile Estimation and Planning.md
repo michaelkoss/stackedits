@@ -19,8 +19,8 @@ Inform stakeholders when projects/features will be done
 
 ## Problems with the Traditional Approach
 
-### Estimation
-- is hard and inaccurate...we are not good at it
+### Estimation is hard and inaccurate
+- we are not good at it
 	- optimists and pessimists..waste time arguing
 	- time spent estimating does not generate more accuracy
 	- software is ambiguous
@@ -134,11 +134,11 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3OTAzNDg5LC05MzU2ODkwMjgsLTEyNT
-ExNjk2NjQsLTI0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0
-LDE2Mzk1MDM1ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMj
-g2NzQ1NTA0LC02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2
-NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMj
-c4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4
-OTkzXX0=
+eyJoaXN0b3J5IjpbMTgyMTI2NDk1OSwtOTM1Njg5MDI4LC0xMj
+UxMTY5NjY0LC0yNDQwMDMyMzgsLTI1Nzc5MTEzMCw1ODUzNjQw
+NCwxNjM5NTAzNTg0LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMT
+I4Njc0NTUwNCwtNjgyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5
+NjQwLC0xMzA0MzI4Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLD
+I3ODExMzYyMCwxMTI0MzA0NzkxLDE4MzE2NTgwMDksMTY1MjY1
+ODk5M119
 -->
