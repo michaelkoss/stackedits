@@ -80,7 +80,9 @@ Epics > Features > Stories > Tasks
 ## Steps
 1. Relatively estimate the time it takes to prepare each Freezer Meal
 2. Assign points to each column
-3. Guess how many points we can accomplish on Saturday afternoon
+3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
+	- Guesstimate how many points we can accomplish each afternoon
+5. 
 
 
 ### Fibonacci Scale
@@ -103,11 +105,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgyNjcwODgsMTYzOTUwMzU4NCwtMj
-E4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLTY4Mjgw
-NDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMyODM5NC
-wxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2MjAsMTEyNDMw
-NDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLTEwMjIzMDEwMz
-MsLTkwMTY3NzE3NSwtMTUzMjA5Nzk1MSwtMTUyMTkyNTk4MCwx
-NzMxNDcwMzI2XX0=
+eyJoaXN0b3J5IjpbNDIwMTIzNDc5LDE2Mzk1MDM1ODQsLTIxOD
+A0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2
+OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMT
+Q5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3
+OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAxMDMzLC
+05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5MjU5ODAsMTcz
+MTQ3MDMyNl19
 -->
