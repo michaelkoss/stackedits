@@ -79,8 +79,6 @@ Plans are static, planning is adaptive
 - `1, 2, 3, 5, 8, 13, 21`
 - Points are completely arbitrary and have no correlation to time
 
-# Details
-
 ## Units of Work
 Epics > Features > Stories > Tasks
 
@@ -105,7 +103,7 @@ Epics > Features > Stories > Tasks
 |More focused/accurate estimation|More time breaking down/organizing|
 |Easier parallel efforts of team|Cluttered board|
 ---
-> **First Decision**: What level do we want to track?
+> **Decision**: What level do we want to track?
 ---
 
 # Relative Estimation
@@ -134,11 +132,11 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTE0ODQ2MSwtOTM1Njg5MDI4LC0xMj
-UxMTY5NjY0LC0yNDQwMDMyMzgsLTI1Nzc5MTEzMCw1ODUzNjQw
-NCwxNjM5NTAzNTg0LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMT
-I4Njc0NTUwNCwtNjgyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5
-NjQwLC0xMzA0MzI4Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLD
-I3ODExMzYyMCwxMTI0MzA0NzkxLDE4MzE2NTgwMDksMTY1MjY1
-ODk5M119
+eyJoaXN0b3J5IjpbLTQzNDczNjExMiwxOTU1MTQ4NDYxLC05Mz
+U2ODkwMjgsLTEyNTExNjk2NjQsLTI0NDAwMzIzOCwtMjU3Nzkx
+MTMwLDU4NTM2NDA0LDE2Mzk1MDM1ODQsLTIxODA0NjMyMywtMT
+MwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2OSwtMTEzMjI5
+MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OC
+w5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1
+ODAwOV19
 -->
