@@ -17,7 +17,7 @@ Velocity
 
 ## Difference
 We don't pick functionality then guess a date
-We pick a date, then plan the functionality we can accomplish by then
+We pick a date, then plan the functionality we can accomplish
 
 
 # Details
@@ -111,11 +111,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTExNjk2NjQsLTI0NDAwMzIzOCwtMj
-U3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1ODQsLTIxODA0NjMy
-MywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2OSwtMT
-EzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3
-ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMT
-gzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAxMDMzLC05MDE2
-NzcxNzVdfQ==
+eyJoaXN0b3J5IjpbLTkwNzExODEwNiwtMTI1MTE2OTY2NCwtMj
+Q0MDAzMjM4LC0yNTc3OTExMzAsNTg1MzY0MDQsMTYzOTUwMzU4
+NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLT
+Y4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMy
+ODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2MjAsMT
+EyNDMwNDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLTEwMjIz
+MDEwMzNdfQ==
 -->
