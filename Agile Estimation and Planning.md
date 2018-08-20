@@ -63,19 +63,19 @@ Epics > Features > Stories > Tasks
 ### Relative Estimation Game
 #### Freezer meals
 ```
-1. Kraft Mac n' Cheese
-2. Enchiladas
-3. Spaghetti
-4. Bologna Sandwich
-5. Hot Dogs
-6. Chili
-7. Lasagna
-8. Grilled Salmon
-9. Jello
-10. Fajitas
-11. Pad Thai
-12. Fried Rice
-13. Steak and Potatoes
+1. Grilled Salmon
+2. Spaghetti
+3. Hot Dogs
+4. Mac n' Cheese
+5. Bologna Sandwich
+6. Lasagna
+7. Fajitas
+8. Fried Rice
+9. Pad Thai
+10. Chili
+11. Jello
+12. Steak and Potatoes
+13. Enchiladas 
 ```
 
 ### Fibonacci Scale
@@ -98,11 +98,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTUwMzU4NCwtMjE4MDQ2MzIzLC0xMz
-A0MDQ2OTcxLDEyODY3NDU1MDQsLTY4MjgwNDY5LC0xMTMyMjkz
-NTAwLDI5NjM3OTY0MCwtMTMwNDMyODM5NCwxNDk0ODc4MjQ4LD
-k3NTU3NTY5MCwyNzgxMTM2MjAsMTEyNDMwNDc5MSwxODMxNjU4
-MDA5LDE2NTI2NTg5OTMsLTEwMjIzMDEwMzMsLTkwMTY3NzE3NS
-wtMTUzMjA5Nzk1MSwtMTUyMTkyNTk4MCwxNzMxNDcwMzI2LC03
-MTg0NzczM119
+eyJoaXN0b3J5IjpbOTk0MTg1Mzk2LDE2Mzk1MDM1ODQsLTIxOD
+A0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2
+OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMT
+Q5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3
+OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAxMDMzLC
+05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5MjU5ODAsMTcz
+MTQ3MDMyNl19
 -->
