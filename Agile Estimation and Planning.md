@@ -82,7 +82,7 @@ Epics > Features > Stories > Tasks
 2. Assign points to each column
 3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
 	- Guesstimate how many points we can accomplish each afternoon
-4. We can accomplish 25 points per afternoon
+4. Plan the first afternoon's preparations
 5. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
 
@@ -106,11 +106,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MjE0Mjc2LDU4NTM2NDA0LDE2Mzk1MD
-M1ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0
-LC02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMD
-QzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIw
-LDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMD
-IyMzAxMDMzLC05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5
-MjU5ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2NzEyMjA3MjAsNTg1MzY0MDQsMTYzOT
+UwMzU4NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1
+MDQsLTY4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMT
+MwNDMyODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2
+MjAsMTEyNDMwNDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLT
+EwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMTUzMjA5Nzk1MSwtMTUy
+MTkyNTk4MF19
 -->
