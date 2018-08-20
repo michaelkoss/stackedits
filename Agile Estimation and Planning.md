@@ -72,17 +72,18 @@ Epics > Features > Stories > Tasks
 7. Fajitas
 8. Fried Rice
 9. Pad Thai
-10. Chili
-11. Jello
-12. Steak and Potatoes
-13. Enchiladas 
+10. Chocolate Chip Cookies 
+11. Chili
+12. Jello
+13. Steak and Potatoes
+14. Enchiladas 
 ```
 ## Steps
 1. Relatively estimate the time it takes to prepare each Freezer Meal
 2. Assign points to each column
 3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
 	- Guesstimate how many points we can accomplish each afternoon
-4. We can acco
+4. We can accomplish 25 points per afternoon
 5. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
 
@@ -106,7 +107,7 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk5OTY5NzgsNTg1MzY0MDQsMTYzOT
+eyJoaXN0b3J5IjpbLTEzNzg2MDg4NTYsNTg1MzY0MDQsMTYzOT
 UwMzU4NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1
 MDQsLTY4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMT
 MwNDMyODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2
