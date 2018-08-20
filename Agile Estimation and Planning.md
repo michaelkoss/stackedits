@@ -1,5 +1,8 @@
 # Overview
 
+## Goal of Estimation/Planning
+Inform stakeholders when projects/features will be done
+
 ## Traditional Projects
 - Team is given a project or feature request and asked when it will be done
 	- Have to make guesses based on inaccurate or unknown information/requirements
@@ -16,8 +19,8 @@ Plans are static, planning is adaptive
 - We pick a date, then plan the functionality we can accomplish
 
 
-## Goal
-Inform stakeholders when features will be done
+
+
 
 ## Estimation
 1. Give each unit of work a `value` based on effort
@@ -117,11 +120,11 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1Mjc5NDc2LC0xMjUxMTY5NjY0LC0yND
-QwMDMyMzgsLTI1Nzc5MTEzMCw1ODUzNjQwNCwxNjM5NTAzNTg0
-LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMTI4Njc0NTUwNCwtNj
-gyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5NjQwLC0xMzA0MzI4
-Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYyMCwxMT
-I0MzA0NzkxLDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMw
-MTAzM119
+eyJoaXN0b3J5IjpbLTE5MTk1OTI3NDMsLTEyNTExNjk2NjQsLT
+I0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1
+ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC
+02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQz
+MjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLD
+ExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIy
+MzAxMDMzXX0=
 -->
