@@ -73,7 +73,6 @@ Plans are static, planning is adaptive
 6. Determine velocity and plan Sunday's afternoon
 7. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
-
 ### Fibonacci Scale
 - implies exponentially rising difficulty
 - `1, 2, 3, 5, 8, 13, 21`
@@ -106,37 +105,18 @@ Epics > Features > Stories > Tasks
 > **Decision**: What level do we want to track?
 ---
 
-# Relative Estimation
-
-## Estimation
-- is hard and inaccurate...we are not good at it
-	- optimists and pessimists..waste time arguing
-	- time spent estimating does not generate more accuracy
-	- software is ambiguous
-	- we know the least about a project/feature at the start
-- humans are much better at relative estimation
-	- comparing is much quicker and more accurate than deconstructing
-
-> "It is better to be **roughly right** than **precisely wrong**."
-	> *- John Maynard Keynes*
-
-
-
-
-# Planning
-
-
 	
 # Pop-up Support Tasks
+---
 > **Decision**: do we track them on the board and include them in velocity?
-
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDczNjExMiwxOTU1MTQ4NDYxLC05Mz
-U2ODkwMjgsLTEyNTExNjk2NjQsLTI0NDAwMzIzOCwtMjU3Nzkx
-MTMwLDU4NTM2NDA0LDE2Mzk1MDM1ODQsLTIxODA0NjMyMywtMT
-MwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2OSwtMTEzMjI5
-MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OC
-w5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1
-ODAwOV19
+eyJoaXN0b3J5IjpbLTIxMDE2NTQwMDAsMTk1NTE0ODQ2MSwtOT
+M1Njg5MDI4LC0xMjUxMTY5NjY0LC0yNDQwMDMyMzgsLTI1Nzc5
+MTEzMCw1ODUzNjQwNCwxNjM5NTAzNTg0LC0yMTgwNDYzMjMsLT
+EzMDQwNDY5NzEsMTI4Njc0NTUwNCwtNjgyODA0NjksLTExMzIy
+OTM1MDAsMjk2Mzc5NjQwLC0xMzA0MzI4Mzk0LDE0OTQ4NzgyND
+gsOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0MzA0NzkxLDE4MzE2
+NTgwMDldfQ==
 -->
