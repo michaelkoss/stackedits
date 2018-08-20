@@ -5,9 +5,10 @@ Inform stakeholders when projects/features will be done
 
 ## Traditional Projects
 - Team is given a project or feature request and asked when it will be done
-	- Guess based on inaccurate/unknown/ambigious information/requirements
+	- Guess based on inaccurate/unknown/ambiguous information/requirements
 	- Break down the project, maybe a gant chart
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
+	- The 
 
 > "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
 	> *- Dwight D Eisenhower*
@@ -120,7 +121,7 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTgwMDAzMSwtMTI1MTE2OTY2NCwtMj
+eyJoaXN0b3J5IjpbLTkyNDUxNDMwMywtMTI1MTE2OTY2NCwtMj
 Q0MDAzMjM4LC0yNTc3OTExMzAsNTg1MzY0MDQsMTYzOTUwMzU4
 NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLT
 Y4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMy
