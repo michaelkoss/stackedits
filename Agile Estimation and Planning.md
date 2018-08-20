@@ -10,17 +10,26 @@ Inform stakeholders when projects/features will be done
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
 	- The completion date comes into focus as work gets done
 
-> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
-	> *- Dwight D Eisenhower*
 
-Plans are static, planning is adaptive
+
 
 ## Difference in Agile
 - We don't pick functionality then guess a date
 - We pick a date, then plan the functionality we can accomplish
 
+## Problems with the Traditional Approach
 
+### Estimation
+- is hard and inaccurate...we are not good at it
+	- optimists and pessimists..waste time arguing
+	- time spent estimating does not generate more accuracy
+	- software is ambiguous
+	- we know the least about a project/feature at the start
+- humans are much better at relative estimation
+	- comparing is much quicker and more accurate than deconstructing
 
+> "It is better to be **roughly right** than **precisely wrong**."
+	> *- John Maynard Keynes*
 
 
 ## Estimation
@@ -35,6 +44,10 @@ Velocity
 1. What is the most important functionality we can fit into this `cycle`
 2. We can extrapolate our `velocity` to project when a set of features will be done
 
+> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
+	> *- Dwight D Eisenhower*
+
+Plans are static, planning is adaptive
 
 # Details
 
@@ -121,11 +134,11 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTY4OTAyOCwtMTI1MTE2OTY2NCwtMj
-Q0MDAzMjM4LC0yNTc3OTExMzAsNTg1MzY0MDQsMTYzOTUwMzU4
-NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLT
-Y4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMy
-ODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2MjAsMT
-EyNDMwNDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLTEwMjIz
-MDEwMzNdfQ==
+eyJoaXN0b3J5IjpbMzk3OTAzNDg5LC05MzU2ODkwMjgsLTEyNT
+ExNjk2NjQsLTI0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0
+LDE2Mzk1MDM1ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMj
+g2NzQ1NTA0LC02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2
+NDAsLTEzMDQzMjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMj
+c4MTEzNjIwLDExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4
+OTkzXX0=
 -->
