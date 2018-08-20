@@ -5,7 +5,7 @@ Inform stakeholders when projects/features will be done
 
 ## Traditional Projects
 - Team is given a project or feature request and asked when it will be done
-	- Have to make guesses based on inaccurate or unknown information/requirements
+	- Guess based on inaccurate/unknown/ambigious information/requirements
 	- Break down the project, maybe a gant chart
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
 
@@ -120,11 +120,11 @@ Epics > Features > Stories > Tasks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk1OTI3NDMsLTEyNTExNjk2NjQsLT
-I0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1
-ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC
-02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQz
-MjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLD
-ExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIy
-MzAxMDMzXX0=
+eyJoaXN0b3J5IjpbLTY2NTgwMDAzMSwtMTI1MTE2OTY2NCwtMj
+Q0MDAzMjM4LC0yNTc3OTExMzAsNTg1MzY0MDQsMTYzOTUwMzU4
+NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLT
+Y4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMy
+ODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2MjAsMT
+EyNDMwNDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLTEwMjIz
+MDEwMzNdfQ==
 -->
