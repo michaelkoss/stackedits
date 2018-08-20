@@ -83,7 +83,8 @@ Epics > Features > Stories > Tasks
 3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
 	- Guesstimate how many points we can accomplish each afternoon
 4. Plan the first afternoon's preparations
-5. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
+5. Determine velocity
+6. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
 
 ### Fibonacci Scale
@@ -106,11 +107,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEyMjA3MjAsNTg1MzY0MDQsMTYzOT
-UwMzU4NCwtMjE4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1
-MDQsLTY4MjgwNDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMT
-MwNDMyODM5NCwxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2
-MjAsMTEyNDMwNDc5MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLT
-EwMjIzMDEwMzMsLTkwMTY3NzE3NSwtMTUzMjA5Nzk1MSwtMTUy
-MTkyNTk4MF19
+eyJoaXN0b3J5IjpbMTE4NTY1NjM1Miw1ODUzNjQwNCwxNjM5NT
+AzNTg0LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMTI4Njc0NTUw
+NCwtNjgyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5NjQwLC0xMz
+A0MzI4Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYy
+MCwxMTI0MzA0NzkxLDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMT
+AyMjMwMTAzMywtOTAxNjc3MTc1LC0xNTMyMDk3OTUxLC0xNTIx
+OTI1OTgwXX0=
 -->
