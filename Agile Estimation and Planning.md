@@ -77,6 +77,9 @@ Epics > Features > Stories > Tasks
 12. Steak and Potatoes
 13. Enchiladas 
 ```
+1. Relatively estimate the time it takes to prepare each Freezer Meal
+15. 
+
 
 ### Fibonacci Scale
 - implies exponentially rising difficulty
@@ -98,7 +101,7 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MTg1Mzk2LDE2Mzk1MDM1ODQsLTIxOD
+eyJoaXN0b3J5IjpbOTE1ODMxNDMyLDE2Mzk1MDM1ODQsLTIxOD
 A0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2
 OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMT
 Q5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3
