@@ -2,7 +2,11 @@
 
 ## Traditional Projects
 - Team is given a project or feature request and asked when it will be done
-- 
+	- Have to make guesses based on inaccurate or unknown information/requirements
+	- Break down the project, maybe a ga
+- Agile flips that and asks, over the next `cycle`, what work can we accomplish
+
+
 
 ## Goal
 Inform stakeholders when features will be done
@@ -106,16 +110,12 @@ Epics > Features > Stories > Tasks
 
 Plans are static, planning is adaptive
 	
-- Typically, a team is given a project and asked when it will be done
-- Agile flips that and asks, over the next `cycle`, what work can we accomplish
-- Calculate a team `velocity` and 
-
 # Pop-up Support Tasks
 > **Decision**: do we track them on the board and include them in velocity?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA1MTYwNjAsLTEyNTExNjk2NjQsLT
+eyJoaXN0b3J5IjpbLTE3ODA4MTg5MjksLTEyNTExNjk2NjQsLT
 I0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1
 ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC
 02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQz
