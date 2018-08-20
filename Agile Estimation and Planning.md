@@ -3,9 +3,17 @@
 ## Traditional Projects
 - Team is given a project or feature request and asked when it will be done
 	- Have to make guesses based on inaccurate or unknown information/requirements
-	- Break down the project, maybe a ga
+	- Break down the project, maybe a gant chart
 - Agile flips that and asks, over the next `cycle`, what work can we accomplish
 
+> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
+	> *- Dwight D Eisenhower*
+
+Plans are static, planning is adaptive
+
+## Difference in Agile
+- We don't pick functionality then guess a date
+- We pick a date, then plan the functionality we can accomplish
 
 
 ## Goal
@@ -22,10 +30,6 @@ Velocity
 ## Planning
 1. What is the most important functionality we can fit into this `cycle`
 2. We can extrapolate our `velocity` to project when a set of features will be done
-
-## Difference
-We don't pick functionality then guess a date
-We pick a date, then plan the functionality we can accomplish
 
 
 # Details
@@ -105,21 +109,19 @@ Epics > Features > Stories > Tasks
 - Points are completely arbitrary and have no correlation to time
 
 # Planning
-> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
-	> *- Dwight D Eisenhower*
 
-Plans are static, planning is adaptive
+
 	
 # Pop-up Support Tasks
 > **Decision**: do we track them on the board and include them in velocity?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA4MTg5MjksLTEyNTExNjk2NjQsLT
-I0NDAwMzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1
-ODQsLTIxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC
-02ODI4MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQz
-MjgzOTQsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLD
-ExMjQzMDQ3OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIy
-MzAxMDMzXX0=
+eyJoaXN0b3J5IjpbMzA1Mjc5NDc2LC0xMjUxMTY5NjY0LC0yND
+QwMDMyMzgsLTI1Nzc5MTEzMCw1ODUzNjQwNCwxNjM5NTAzNTg0
+LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMTI4Njc0NTUwNCwtNj
+gyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5NjQwLC0xMzA0MzI4
+Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYyMCwxMT
+I0MzA0NzkxLDE4MzE2NTgwMDksMTY1MjY1ODk5MywtMTAyMjMw
+MTAzM119
 -->
