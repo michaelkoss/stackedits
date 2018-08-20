@@ -82,7 +82,8 @@ Epics > Features > Stories > Tasks
 2. Assign points to each column
 3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
 	- Guesstimate how many points we can accomplish each afternoon
-5. 
+4. 
+5. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
 
 ### Fibonacci Scale
@@ -105,11 +106,11 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMTIzNDc5LDE2Mzk1MDM1ODQsLTIxOD
-A0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4MDQ2
-OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOTQsMT
-Q5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQzMDQ3
-OTEsMTgzMTY1ODAwOSwxNjUyNjU4OTkzLC0xMDIyMzAxMDMzLC
-05MDE2NzcxNzUsLTE1MzIwOTc5NTEsLTE1MjE5MjU5ODAsMTcz
-MTQ3MDMyNl19
+eyJoaXN0b3J5IjpbNTg1MzY0MDQsMTYzOTUwMzU4NCwtMjE4MD
+Q2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLTY4MjgwNDY5
+LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMyODM5NCwxND
+k0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2MjAsMTEyNDMwNDc5
+MSwxODMxNjU4MDA5LDE2NTI2NTg5OTMsLTEwMjIzMDEwMzMsLT
+kwMTY3NzE3NSwtMTUzMjA5Nzk1MSwtMTUyMTkyNTk4MCwxNzMx
+NDcwMzI2XX0=
 -->
