@@ -83,8 +83,9 @@ Epics > Features > Stories > Tasks
 3. It's our Friday off, so we can commit to preparing meals Friday, Saturday, and Sunday afternoon
 	- Guesstimate how many points we can accomplish each afternoon
 4. Plan the first afternoon's preparations
-5. Determine velocity
-6. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
+5. Determine velocity and plan Saturday's afternoon
+6. Determine velocity and plan Sunday's afternoon
+7. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
 
 
 ### Fibonacci Scale
@@ -107,7 +108,7 @@ Plans are static, planning is adaptive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTY1NjM1Miw1ODUzNjQwNCwxNjM5NT
+eyJoaXN0b3J5IjpbLTI1Nzc5MTEzMCw1ODUzNjQwNCwxNjM5NT
 AzNTg0LC0yMTgwNDYzMjMsLTEzMDQwNDY5NzEsMTI4Njc0NTUw
 NCwtNjgyODA0NjksLTExMzIyOTM1MDAsMjk2Mzc5NjQwLC0xMz
 A0MzI4Mzk0LDE0OTQ4NzgyNDgsOTc1NTc1NjkwLDI3ODExMzYy
