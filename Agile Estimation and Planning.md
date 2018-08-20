@@ -53,7 +53,7 @@ Inform stakeholders when projects/features will be done
 4. Plan the first afternoon's preparations
 5. Determine velocity and plan Saturday's afternoon
 6. Determine velocity and plan Sunday's afternoon
-7. Replace the idea of *Freezer Meals* with *User Stories* and replace *you* with *our team*
+7. Replace the idea of *Freezer Meals* with *User Stories* 
 
 ### Fibonacci Scale
 - implies exponentially rising difficulty
@@ -72,7 +72,7 @@ Velocity
 ## Planning
 1. What is the most important functionality we can fit into this `cycle`
 2. We can extrapolate our `velocity` to project when a set of features will be done
-3. 
+
 ## Units of Work
 Epics > Features > Stories > Tasks
 
@@ -107,7 +107,7 @@ Epics > Features > Stories > Tasks
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyODM3OTIxLC0yMTAxNjU0MDAwLDE5NT
+eyJoaXN0b3J5IjpbMTc3MDQ3Njc1LC0yMTAxNjU0MDAwLDE5NT
 UxNDg0NjEsLTkzNTY4OTAyOCwtMTI1MTE2OTY2NCwtMjQ0MDAz
 MjM4LC0yNTc3OTExMzAsNTg1MzY0MDQsMTYzOTUwMzU4NCwtMj
 E4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLTY4Mjgw
