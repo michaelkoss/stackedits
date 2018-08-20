@@ -18,33 +18,15 @@ Inform stakeholders when projects/features will be done
 
 ### Estimation is hard and inaccurate
 - we are not good at it
-	- optimists and pessimists..waste time arguing
+	- optimists and pessimists on team..waste time arguing
 	- time spent estimating does not generate more accuracy
-	- software is ambiguous
+	- software is ambiguous and hard to estimate
 	- we know the least about a project/feature at the start
 - humans are much better at relative estimation
 	- comparing is much quicker and more accurate than deconstructing
 
 > "It is better to be **roughly right** than **precisely wrong**."
 	> *- John Maynard Keynes*
-
-
-## Estimation
-1. Give each unit of work a `value` based on effort
-2. Track how many `values` are completed each `cycle`
-3. Calculate `velocity` (`values`/`cycle`) for the team
-
-Velocity
-: how much work is getting done per `cycle`
-
-## Planning
-1. What is the most important functionality we can fit into this `cycle`
-2. We can extrapolate our `velocity` to project when a set of features will be done
-
-> "When preparing for battle, I find that **plans are useless** but **planning is indispensable**."
-	> *- Dwight D Eisenhower*
-
-Plans are static, planning is adaptive
 
 ## Relative Estimation Game - Freezer Meals
 ```
@@ -78,6 +60,19 @@ Plans are static, planning is adaptive
 - `1, 2, 3, 5, 8, 13, 21`
 - Points are completely arbitrary and have no correlation to time
 
+
+## Estimation
+1. Give each unit of work a `value` based on effort
+2. Track how many `values` are completed each `cycle`
+3. Calculate `velocity` (`values`/`cycle`) for the team
+
+Velocity
+: how much work is getting done per `cycle`
+
+## Planning
+1. What is the most important functionality we can fit into this `cycle`
+2. We can extrapolate our `velocity` to project when a set of features will be done
+3. 
 ## Units of Work
 Epics > Features > Stories > Tasks
 
@@ -112,11 +107,11 @@ Epics > Features > Stories > Tasks
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjQ1OTQ4NCwtMjEwMTY1NDAwMCwxOT
-U1MTQ4NDYxLC05MzU2ODkwMjgsLTEyNTExNjk2NjQsLTI0NDAw
-MzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1ODQsLT
-IxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4
-MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOT
-QsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQz
-MDQ3OTFdfQ==
+eyJoaXN0b3J5IjpbNDIyODM3OTIxLC0yMTAxNjU0MDAwLDE5NT
+UxNDg0NjEsLTkzNTY4OTAyOCwtMTI1MTE2OTY2NCwtMjQ0MDAz
+MjM4LC0yNTc3OTExMzAsNTg1MzY0MDQsMTYzOTUwMzU4NCwtMj
+E4MDQ2MzIzLC0xMzA0MDQ2OTcxLDEyODY3NDU1MDQsLTY4Mjgw
+NDY5LC0xMTMyMjkzNTAwLDI5NjM3OTY0MCwtMTMwNDMyODM5NC
+wxNDk0ODc4MjQ4LDk3NTU3NTY5MCwyNzgxMTM2MjAsMTEyNDMw
+NDc5MV19
 -->
