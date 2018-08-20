@@ -7,11 +7,11 @@ Inform stakeholders when projects/features will be done
 - Team is given a project or feature request and asked when it will be done
 	- Guess based on inaccurate/unknown/ambiguous information/requirements
 	- Break down the project, maybe a gant chart
-- Agile flips that and asks, over the next `cycle`, what work can we accomplish
-	- The completion date comes into focus as work gets done
+
 
 ## Difference in Agile
-- We don't pick functionality then guess a date
+- Agile flips that and asks, over the next `cycle`, what work can we accomplish
+	- The completion date comes into focus as work gets done- We don't pick functionality then guess a date
 - We pick a date, then plan the functionality we can accomplish
 
 ## Problems with the Traditional Approach
@@ -112,11 +112,11 @@ Epics > Features > Stories > Tasks
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE2NTQwMDAsMTk1NTE0ODQ2MSwtOT
-M1Njg5MDI4LC0xMjUxMTY5NjY0LC0yNDQwMDMyMzgsLTI1Nzc5
-MTEzMCw1ODUzNjQwNCwxNjM5NTAzNTg0LC0yMTgwNDYzMjMsLT
-EzMDQwNDY5NzEsMTI4Njc0NTUwNCwtNjgyODA0NjksLTExMzIy
-OTM1MDAsMjk2Mzc5NjQwLC0xMzA0MzI4Mzk0LDE0OTQ4NzgyND
-gsOTc1NTc1NjkwLDI3ODExMzYyMCwxMTI0MzA0NzkxLDE4MzE2
-NTgwMDldfQ==
+eyJoaXN0b3J5IjpbMTg0NjQ1OTQ4NCwtMjEwMTY1NDAwMCwxOT
+U1MTQ4NDYxLC05MzU2ODkwMjgsLTEyNTExNjk2NjQsLTI0NDAw
+MzIzOCwtMjU3NzkxMTMwLDU4NTM2NDA0LDE2Mzk1MDM1ODQsLT
+IxODA0NjMyMywtMTMwNDA0Njk3MSwxMjg2NzQ1NTA0LC02ODI4
+MDQ2OSwtMTEzMjI5MzUwMCwyOTYzNzk2NDAsLTEzMDQzMjgzOT
+QsMTQ5NDg3ODI0OCw5NzU1NzU2OTAsMjc4MTEzNjIwLDExMjQz
+MDQ3OTFdfQ==
 -->
