@@ -7,9 +7,9 @@
 - Passing circle
 
 ## Obstacle Course
-
+`Focus on`
 
 ## Scrimmage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDQxMTg5OSwtOTQ4NDAyOTUyXX0=
+eyJoaXN0b3J5IjpbLTk2NDk1NjQ3OCwtOTQ4NDAyOTUyXX0=
 -->
